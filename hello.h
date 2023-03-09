@@ -6,5 +6,5 @@
 #define TEST_HELLO_H
 
 void hello();
-
+void newfeature();
 #endif //TEST_HELLO_H
