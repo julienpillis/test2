@@ -5,7 +5,7 @@ void hello(){
 }
 
 void newfeature(){
-    std::cout << "This is the new feature!" ;
+    std::cout << "This is the new feature, eheh !";
 }
 
 
