@@ -10,6 +10,7 @@ void newfeature(){
 
 
 int main() {
+    std::cout << "This is the new feature, eheh !";
     hello();
     newfeature();
     return 0;
