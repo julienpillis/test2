@@ -9,7 +9,7 @@ void newfeature(){
 }
 
 int main() {
-    std::cout<<"What ?";
+    std::cout<<"What zz?";
     hello();
     return 0;
 }
